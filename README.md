@@ -1,16 +1,5 @@
-# praticando_2_listagem
+# praticando listas, icones e botões com flutter
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![listagem](https://user-images.githubusercontent.com/75645193/154785429-d9dead22-81ec-4da8-94c3-93f9f5789515.gif)
