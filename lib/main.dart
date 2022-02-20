@@ -37,7 +37,7 @@ class _MyHomePageState extends State<MyHomePage> {
   void initState() {
     setState(() {
       contatos.add(Contato(
-          nome: "Felipe",
+          nome: "Severino",
           telefone: "(83) 9 999605024",
           tipo: ContatoType.CELULAR));
       contatos.add(Contato(
